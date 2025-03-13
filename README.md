@@ -41,7 +41,7 @@ exploitation, wireless testing, and digital forensics.
 
 **Network Topologies:**
 
-![HomeLab](./images/ntwTopology.png)
+![HomeLab](./ntwTopology.png)
 
 
 **Installation 🏗️**
