@@ -14,11 +14,10 @@ This homelab walks through the process of setup, configuring ,securing, and simu
 
 Also apply cyber attack phases like:
 
-- **Reconnaissance:** Mapping the network and finding vulnerabilities
-- **Exploitation:** Gaining access via real-world attack techniques
-- **Post-Exploitation:** Escalating privileges and moving laterally
-- **Persistence:** Maintaining access with backdoors
-- **Defense:** Monitoring logs, using IDS, and hardening systems
+- **Reconnaissance**
+- **Exploitation:** 
+- **Persistence:** 
+- **Defense:** 
 
 **Homelab Infrastructure**
 
@@ -43,6 +42,7 @@ exploitation, wireless testing, and digital forensics.
 **Network Topologies:**
 
 ![Screenshot 2025-03-12 at 11.17.27.png](attachment:9cdcb5f8-d454-46c0-8758-380361267d55:Screenshot_2025-03-12_at_11.17.27.png)
+![HomeLab](./images/ntwTopology.png)
 
 **Installation 🏗️**
 
