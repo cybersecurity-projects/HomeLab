@@ -6,7 +6,7 @@
 - **Network Topologies**
 - **Installation & Setup**
 - **Attack Scenario**
-- **Challenges and Solutions (** https://github.com/Aidantb8/Homelab)
+- **Challenges and Solutions**
 
 **Project Overview**
 
@@ -41,8 +41,8 @@ exploitation, wireless testing, and digital forensics.
 
 **Network Topologies:**
 
-![Screenshot 2025-03-12 at 11.17.27.png](attachment:9cdcb5f8-d454-46c0-8758-380361267d55:Screenshot_2025-03-12_at_11.17.27.png)
 ![HomeLab](./images/ntwTopology.png)
+
 
 **Installation 🏗️**
 
