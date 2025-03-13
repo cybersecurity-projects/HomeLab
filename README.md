@@ -63,54 +63,12 @@ exploitation, wireless testing, and digital forensics.
 
 ✨**Attack Scenario** 
 
-**Configure Vulnerability Environment** ubuntu (target machine) :**:**
-
-1- **Open SSH** (Open Secure Shell) is a suite of tools that provide secure network communication over an encrypted connection
-
-Steps: 
-
- -Start and Enable the SSH Server and ensure it runs 
-
-  `sudo systemctl start ssh`
-
-  `sudo systemctl enable ssh`
-
--Change UFW(Uncomplicated Firewall )rules to be disable 
-
-   `sudo ufw allow 22`
-
-    `sudo ufw disable`
-
-    `sudo ufw status`
-
--Verify SSH is running:
-
-  `sudo systemctl status ssh`
-
-- Allow remote root login with password authentication by edit the SSH configuration file .
-
-Apply below changes uncomment if commented “Password Authentication” then comment prohibit-password and finally change PermitRootLogin to yes.
-
-`sudo nano /etc/ssh/sshd_config` 
-
-![Screenshot 2025-03-09 at 16.04.36.png](attachment:6c54794b-f4fb-4660-9bde-65ebdb3ac1f8:Screenshot_2025-03-09_at_16.04.36.png)
-
-![Screenshot 2025-03-09 at 16.09.44.png](attachment:456e021d-fe96-40e7-99fe-e425e2e7e963:Screenshot_2025-03-09_at_16.09.44.png)
-
--Restart SSH service:
-
-`sudo systemctl restart ssh`
-
--Set root’s password (use the password: november)
-
-`sudo passwd root`
-
-**Apply Attack** 
-
 In this part of the lab series, we are going to simulate an end-to-end cyber-attack on business network. The end goal is to have access and achieve persistence inside the business network by apply [Cyber attack kill chain phases](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) 
 
 Please refer to this document for more detailes: ![HomeLab](./AttackScenario.doc)
--💡 **Challenges and Solutions**
+
+
+💡 **Challenges and Solutions**
 
 - Virtual platform selection was time waste for your first time without define selection requirements in terms of compatibility ,storage and user usability .
 
