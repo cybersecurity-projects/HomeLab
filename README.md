@@ -72,7 +72,7 @@ Please refer to this document for more detailes: ![HomeLab](./AttackScenario.doc
 
 - Virtual platform selection was time waste for your first time without define selection requirements in terms of compatibility ,storage and user usability .
 
--Host machine space limitation , try below steps :
+- Host machine space limitation , try below steps :
 
      Clean your unwanted App & large documents
 
@@ -82,13 +82,13 @@ Please refer to this document for more detailes: ![HomeLab](./AttackScenario.doc
 
      Finally , if you still have space issue try to check other cloud options (AWS,Azure ,Google Cloud **)**
 
--Cloud options limitations:
+- Cloud options limitations:
 
-AWS : Require “Microsoft Remote Desktop” which is restricted in Egypt 
+    AWS : Require “Microsoft Remote Desktop” which is restricted in Egypt 
 
-GCP : By default, GCP VMs don’t come with a GUI ,only terminal usage
+   GCP : By default, GCP VMs don’t come with a GUI ,only terminal usage
 
-Azure: signup issues not eligible in all countries 
+   Azure: signup issues not eligible in all countries 
 
 📚**Useful links:**
 
