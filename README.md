@@ -65,7 +65,8 @@ exploitation, wireless testing, and digital forensics.
 
 In this part of the lab series, we are going to simulate an end-to-end cyber-attack on business network. The end goal is to have access and achieve persistence inside the business network by apply [Cyber attack kill chain phases](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) 
 
-Please refer to this document for more detailes: ![HomeLab](./AttackScenario.doc)
+Please refer to this document for more detailes:
+https://treasure-gaura-631.notion.site/HomeLab-Content-1aa45f9874d08097813afac8865cd129
 
 
 💡 **Challenges and Solutions**
