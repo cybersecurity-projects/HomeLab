@@ -3,14 +3,14 @@
 
 - **Project Overview**
 - **Homelab infrastructure**
-- **Network Topologies**
+- **Network Topology**
 - **Installation & Setup**
 - **Attack Scenario**
 - **Challenges and Solutions**
 
 🚀**Project Overview**
 
-This homelab walks through the process of setup, configuring ,securing, and simulate cyber attack (brute force attack through SSH)and apply some defense security ways .
+This homelab walks through the process of setup, configuring ,securing, and simulate cyber attack (brute force attack through SSH)and apply some defense security ways.
 
 Also apply cyber attack phases like:
 
